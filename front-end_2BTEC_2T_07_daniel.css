@@ -2,7 +2,6 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-image: linear-gradient(to bottom, #06e0f0, #fff);
     background-repeat: no-repeat;
-    opacity: 0.9;
 }
 
 header {
@@ -10,6 +9,7 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
+    opacity: 0.9;
 }
 
 main {
