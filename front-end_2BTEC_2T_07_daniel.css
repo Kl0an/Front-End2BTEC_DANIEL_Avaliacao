@@ -31,7 +31,7 @@ section {
     margin: 30px;
 }
 
-.text-container::first-line  {
+.text-container p::first-line  {
     margin-left: 240px;
 }
 
