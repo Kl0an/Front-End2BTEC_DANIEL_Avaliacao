@@ -31,8 +31,12 @@ section {
     margin: 30px;
 }
 
-#text-container p::first-line {
-  text-indent: 240px;
+.text-container {
+    margin-left: 240px;
+}
+
+p::first-line {
+    text-indent: 240px;
 }
 
 .youtube-container {
