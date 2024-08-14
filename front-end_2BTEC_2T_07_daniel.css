@@ -9,7 +9,7 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
-    opacity: 0.5;
+    opacity: 0.9;
 }
 
 main {
@@ -32,8 +32,6 @@ section {
 }
 
 .text-container::first-line {
-    margin-left: 240px;
-    text-indent: 240px;
 }
 
 .youtube-container {
