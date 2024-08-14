@@ -31,8 +31,9 @@ section {
     margin: 30px;
 }
 
-p #text-container::first-letter  {
-    margin-left: 240px;
+#text-container::first-letter {
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .youtube-container {
