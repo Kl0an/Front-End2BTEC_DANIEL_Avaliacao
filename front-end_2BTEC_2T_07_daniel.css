@@ -31,11 +31,8 @@ section {
     margin: 30px;
 }
 
-.text-container {
+.text-container::first-line {
     margin-left: 240px;
-}
-
-p::first-line {
     text-indent: 240px;
 }
 
